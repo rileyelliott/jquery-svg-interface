@@ -1,6 +1,4 @@
 #jQuery SVG Extension/Interface
-###jquery-svg-interface
-====================
 
 Add that missing jQuery functionality to SVG.
 
