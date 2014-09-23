@@ -1,0 +1,22 @@
+{
+  "name": "jquery-svg-interface",
+  "version": "0.1.0",
+  "description": "jQuery extension/interface that allows you to manipulate the SVG DOM",
+  "main": "lib/jquery-svg-interface.js",
+  "keywords": [
+    "jquery",
+    "svg"
+  ],
+  "authors": [
+    "Riley Elliott"
+  ],
+  "license": "GNU GPL V3",
+  "homepage": "http://www.dark.codes/tools/jquery-svg-interface/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
